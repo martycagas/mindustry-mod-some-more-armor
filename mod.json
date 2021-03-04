@@ -1,0 +1,10 @@
+{
+    "name": "some-more-armor",
+    "displayName": "Some More Armor mod",
+    "author": "martycagas",
+    "description": "This [green]JSON[] mod adds a bunch of new armored variants of blocks from the base game.",
+    "version": "0.1",
+    "minGameVersion": "105",
+    "repo": "martycagas/mindustry-mod-some-more-armor",
+    "dependencies": []
+}
